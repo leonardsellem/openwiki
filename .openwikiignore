@@ -1,0 +1,3 @@
+# OpenWiki source-fingerprint scope (LS-3303).
+# Only generated, archived, or lockfile paths — none cited by the current wiki.
+pnpm-lock.yaml
